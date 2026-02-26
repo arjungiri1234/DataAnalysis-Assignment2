@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .env
+
+##ignore large data sets 
+sensor_data_large.csv
+data/sensor_data_large.csv
